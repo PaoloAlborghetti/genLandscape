@@ -10,4 +10,10 @@ agent based system to create 2D generative landscapes
  T : turn on/off agent tail preview
  D : turn on/off landscape preview
  
+ Libraries needed:
+
+Toxiclibs ConstrolP5
+
+Code written for Processing 2.0
+ 
  ENJOY! :)
